@@ -1,1 +1,1 @@
-![something](something.mp4)
+![something](https://raw.githubusercontent.com/Lost-Voices/.github/main/something.mp4)
